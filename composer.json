@@ -1,5 +1,5 @@
 {
-    "name": "lullabot/robo-acquia",
+    "name": "mattsqd/robo-acquia",
     "description": "A Robo task runner for the Acquia Cloud API.",
     "type": "robo-tasks",
     "require": {
